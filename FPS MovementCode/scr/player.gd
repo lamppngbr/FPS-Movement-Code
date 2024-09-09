@@ -10,7 +10,6 @@ var acceleration := 10.0
 # Definido as variáveis de gravidade e velocidade vertical
 # Setting the gravity and vertical speed variables
 const GRAVITY := 500
-var max_fall_speed := 1000
 var vertical_velocity := 0.0
 
 # Definindo as variáveis da câmera para o Sine Wave e movimentação
