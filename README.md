@@ -1,2 +1,2 @@
 # FPS-Movement-Code
-Este é um cpodigo para movimentação FPS para Godot 3
+Este é um codigo para movimentação FPS para Godot 3
